@@ -15,7 +15,6 @@ public class Anonmyous {
      obj.display();
     }
 }
-//employee class
 class Emp{
     String name="hh";
     String Salary;
@@ -23,5 +22,5 @@ class Emp{
   {
     System.out.println("hii");
   }
- nn
+ 
 }
